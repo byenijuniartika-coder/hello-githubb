@@ -1,2 +1,2 @@
-# hello-githubb
+# hello-github
 Repository pertama saya
